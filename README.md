@@ -1,51 +1,90 @@
 <h1 align="center"><b>Hola, soy Iñaki Urbizu</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- <img align="right" width=300px alt="gif" src="https://media1.tenor.com/m/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" /> -->
+<h3 align="center">💻 Desarrollador Fullstack | Técnico en Programación Informática</h3>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
-
-Soy estudiante de **Tecnicatura en Programación Informática** en la Universidad Nacional de Quilmes.  
-Proactivo, responsable y con muchas ganas de aprender y crecer en el área de **desarrollo de software**.  
-Mi objetivo es aplicar mis conocimientos, ganar experiencia profesional y aportar valor a un equipo de desarrollo.
-
-- 🤔 ¡No dudes en preguntarme cualquier cosa! Siempre estoy feliz de ayudar.  
-- Fuera del mundo tech, disfruto ir al campo, escuchar música y aprender nuevas tecnologías.  
-- 📫 Contacto: <a href="mailto:rully.urbizu@gmail.com">rully.urbizu@gmail.com</a>  
-
----
-
-## 🛠️ Habilidades
-
-<h4>Lenguajes</h4>
-<span>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
-
-<h4>Frameworks y Herramientas</h4>
-<span>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</span>
+<p align="center">
+  <a href="mailto:rully.urbizu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 📂 Proyectos
+## 🚀 Sobre mí
 
-- **[FishSpot](https://github.com/TpFishSpot)**: Aplicación web para gestionar spots de pesca, con filtros por especies y tipos, y autenticación.  
+Soy **Desarrollador Fullstack** y **Técnico en Programación Informática** graduado de la Universidad Nacional de Quilmes.  
+
+Me especializo en el desarrollo de aplicaciones web modernas, construyendo soluciones **escalables, eficientes y bien estructuradas**, tanto en frontend como backend.
+
+Tengo experiencia trabajando con arquitecturas cliente-servidor, autenticación de usuarios, manejo de bases de datos y desarrollo de APIs.
+
+Actualmente estoy buscando mi primera experiencia profesional en IT.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🧠 Tech Stack
 
-[![](https://github-readme-stats.vercel.app/api?username=RullyUrbizu&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/RullyUrbizu)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=RullyUrbizu&theme=material-palenight)](https://github.com/RullyUrbizu)
+### 💻 Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python" />
+</p>
+
+### ⚙️ Frameworks & Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql,postgres,docker,git" />
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🐟 FishSpot
+🔗 https://github.com/TpFishSpot  
+
+Aplicación web para gestión de spots de pesca.
+
+**Características:**
+- 🔐 Autenticación de usuarios  
+- 🔎 Filtros avanzados  
+- 🧩 Arquitectura cliente-servidor  
+- 💾 Persistencia de datos  
+
+---
+
+### 🏢 Cialco (Sistema Fullstack)
+
+🔗 Frontend: https://github.com/RullyUrbizu/cialco-frontend  
+🔗 Backend: https://github.com/RullyUrbizu/cialco-backend  
+
+Sistema web desarrollado con arquitectura fullstack, separando frontend y backend.
+
+**Características:**
+- ⚛️ Frontend desarrollado con React  
+- ☕ Backend con Java y Spring Boot  
+- 🔗 Consumo de API REST  
+- 🗄️ Manejo de base de datos  
+- 🔐 Autenticación y gestión de datos  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RullyUrbizu&theme=material-palenight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Busco integrarme a un equipo de desarrollo donde pueda:
+- Aplicar mis conocimientos en proyectos reales  
+- Seguir aprendiendo buenas prácticas y arquitectura  
+- Aportar valor como desarrollador fullstack  
+
+---
+
+⭐ *Siempre abierto a nuevas oportunidades y desafíos*
