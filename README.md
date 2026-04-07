@@ -3,7 +3,7 @@
 <h3 align="center">💻 Desarrollador Fullstack | Técnico en Programación Informática</h3>
 
 <p align="center">
-  <a href="mailto:rully.urbizu@gmail.com">
+  <a href="mailto:urbizuinaki9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
@@ -56,8 +56,8 @@ Aplicación web para gestión de spots de pesca.
 
 ### 🏢 Cialco (Sistema Fullstack)
 
-🔗 Frontend: https://github.com/RullyUrbizu/cialco-frontend  
-🔗 Backend: https://github.com/RullyUrbizu/cialco-backend  
+🔗 Frontend: https://github.com/InakiUrbizu/cialco-frontend  
+🔗 Backend: https://github.com/InakiUrbizu/cialco-backend  
 
 Sistema web desarrollado con arquitectura fullstack, separando frontend y backend.
 
