@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/inakiurbizu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://inakiurbizu.github.io/mi-portafolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -73,7 +76,7 @@ Sistema web desarrollado con arquitectura fullstack, separando frontend y backen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RullyUrbizu&theme=material-palenight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inakiUrbizu&theme=material-palenight"/>
 </p>
 
 ---
